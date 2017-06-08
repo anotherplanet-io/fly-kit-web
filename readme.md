@@ -2,6 +2,8 @@
 
 > A lean Web App starter kit with [Fly](https://github.com/flyjs/fly)
 
+Fork from: https://github.com/lukeed/fly-kit-web
+
 ---
 <p align="center">Boilerplate & commands will evolve as my own development process does.</p>
 ---
@@ -9,7 +11,7 @@
 ## Install
 
 ```
-git clone https://github.com/lukeed/fly-kit-web
+git clone https://github.com/anotherplanet-io/fly-kit-web
 npm install
 npm start
 ```
